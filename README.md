@@ -6,6 +6,6 @@ Web application that adds text to an image.
 - Application saves meme images to database;
 - Application follows responsive design principles;
 - Spring used for backend;
-- JSP and Css used for frontend.
+- JSP and CSS used for frontend.
 
 
